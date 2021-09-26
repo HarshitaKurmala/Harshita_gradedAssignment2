@@ -1,2 +1,0 @@
-module Harshita_AlgorithmAssigmentSolution {
-}
